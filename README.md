@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm Youssef Ahmed Beshir, a Student at faculty of Computer Science and AI. 
+I'm Youssef Ahmed Beshir, Student at faculty of Computer Science and AI. 
 
-- 🌱 I’m currently learning Computer science basics such as (Data Structures, and Algorithms), Problem Solving, Fundmentals of AI and ML.
+- 🌱 I’m currently learning Computer science basics such as (Data Structures, and Algorithms), Problem Solving, Fundmentals of AI, ML and DL.
 - 📫 How to reach me: youssefahmedbeshir@gmail.com
   
 ## Programming Languages
