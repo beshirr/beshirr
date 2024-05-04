@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beshirr&label=Profile%20views&color=0e75b6&style=flat" alt="beshirr" /> </p>
 
-- 🌱 I’m currently learning **Computer science basics such as (Data Structures, and Algorithms), Problem-Solving, Fundamentals of AI, ML, and DL.**
+- 🌱 I’m currently learning **Computer science basics such as (Data Structures, and Algorithms), Problem-Solving, and Fundamentals of AI, ML, and DL.**
 
 - 📫 How to reach me **youssefahmedbeshir@gmail.com**
 
