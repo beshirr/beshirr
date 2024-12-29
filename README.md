@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Youssef Ahmed Beshir</h1>
+<h1 align="center">Youssef Ahmed Beshir</h1>
 <h3 align="center">Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beshirr&label=Profile%20views&color=0e75b6&style=flat" alt="beshirr" /> </p>
 
-- 🌱 I’m currently learning **Computer science basics such as (Data Structures, and Algorithms), Problem-Solving, and Fundamentals of AI, ML, and DL.**
+- 🌱 I’m currently learning **Computer science basics such as (Data Structures, and Algorithms), Problem-Solving, and interested in Low-Level Programming.**
 
 - 📫 How to reach me **youssefahmedbeshir@gmail.com**
 
