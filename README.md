@@ -1,5 +1,3 @@
-<h2 align="center">Hi 👋! My name is Youssef Ahmed Beshir and I'm a Computer Science Student at the Faculty of Computers and AI - Cairo University.</h2>
-
 ###
 
 <div align="center">
